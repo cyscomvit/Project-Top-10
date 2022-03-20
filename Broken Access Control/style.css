@@ -1,0 +1,11 @@
+html{
+    background-color: aqua;
+}
+
+img{
+width: 100px;
+height: 100px;
+position: absolute;
+bottom: 8px;
+right: 16px;
+}

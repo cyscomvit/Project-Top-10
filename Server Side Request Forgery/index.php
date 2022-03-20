@@ -2,13 +2,13 @@
 <!-- saved from url=(0027)https://owaspvit.org/locker -->
 <html lang="en" class="mdl-js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<link rel="shortcut icon" type="image/jpg" href="./OWASP VITCC _ Certificates_files/owasp-logo.png">
+<link rel="shortcut icon" type="image/jpg" href="./OWASP VITCC _ Certificates_files/cyscom_logo.jpg">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>
 OWASP TOP 10 SSRF
 </title>
-<link rel="shortcut icon" type="image/jpg" href="./OWASP VITCC _ Certificates_files/owasp-logo.png">
+<link rel="shortcut icon" type="image/jpg" href="./OWASP VITCC _ Certificates_files/cyscom_logo.jpg">
 <script src="./OWASP VITCC _ Certificates_files/firebase-ui-auth.js.download"></script>
 <link type="text/css" rel="stylesheet" href="./OWASP VITCC _ Certificates_files/firebase-ui-auth.css">
 <script src="./OWASP VITCC _ Certificates_files/firebase-app.js.download"></script>
@@ -26,7 +26,7 @@ OWASP TOP 10 SSRF
 <div id="particles"><canvas class="pg-canvas" style="display: block;" width="1920" height="929"></canvas><canvas class="pg-canvas" style="display: block;" width="1920" height="929"></canvas>
 <div id="intro" style="margin-top: 0px;">
 <h1 class="header"><span aria-hidden="hidden">Certificates</span><span aria-hidden="hidden">Certificates</span><span aria-hidden="hidden">Certificates</span><span aria-hidden="hidden">Certificates</span><span aria-hidden="hidden">Certificates</span>Certificates<span aria-hidden="hidden">Certificates</span></h1>
-<img src="./OWASP VITCC _ Certificates_files/owasp-logo.png" class="logo">
+<img src="./OWASP VITCC _ Certificates_files/cyscom_logo.jpg" class="logo">
 
 <?php 
 	
