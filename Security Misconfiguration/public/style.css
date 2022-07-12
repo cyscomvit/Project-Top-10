@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    font-size: 28px;
+    margin: 10px 0;
+}
+
+.screen{
+    height: 100%;
+    width: 100%x;
+    max-width: 600px;
+    flex: 1;
+    background-color: #F9F9F9;
+    border-radius: 10px;
+}
+
+.form{
+    height: 40%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+}
+
+.form label,input{
+    display: block;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+}
+
+#uname-tbox, #pwd-tbox{
+    width: calc(100% - 4px);
+    padding: 5px 0;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button{
+    padding: 5px;
+    position: relative;
+    width: 20%;
+    height: 35px;
+    top: 20%;
+    border-radius: 5px;
+    font-size: 16px;
+}
